@@ -1,0 +1,8 @@
+Passo 1 - Importar Arquivos e Bibliotecas
+Passo 2 - Definir Criar uma Tabela para cada Loja e Definir o dia do Indicador
+Passo 3 - Salvar a planilha na pasta de backup
+Passo 4 - Calcular o indicador para 1 loja
+Passo 5 - Enviar por e-mail para o gerente
+Passo 6 - Automatizar todas as lojas
+Passo 7 - Criar ranking para diretoria
+Passo 8 - Enviar e-mail para diretoria
